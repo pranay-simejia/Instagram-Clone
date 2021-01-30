@@ -1,0 +1,9 @@
+.brand-logo {
+	font-family: 'Grand Hotel', cursive;
+	padding: 0 5px !important;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+a {
+	color: black !important;
+}
